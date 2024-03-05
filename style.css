@@ -7,3 +7,24 @@
 body{
   overflow-x: hidden;
 }
+
+.nav{
+    position: absolute;
+    z-index:99px;
+    width: 100%;
+    top:0;
+    left:0;
+}
+nav .wrapper{
+  position: relative;
+  max-width:1300px;
+  width:100%;
+  padding:0px 30px;
+  height:100px;
+  line-height:70px;
+  background: transparent;
+  margin:auto;
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+}
