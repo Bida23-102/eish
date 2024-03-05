@@ -28,3 +28,8 @@ nav .wrapper{
   align-items:center;
   justify-content: space-between;
 }
+wrapper .logo{
+  color: white;
+  font-size: 35px;
+  font-weight: 500;
+}
